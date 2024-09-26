@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/notif"/>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
